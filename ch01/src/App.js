@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <br></br>
-        <p>Hello React Wrold !!</p>
+        <p>Hello React Wrold !!!</p>
         <a
           className="App-link"
           href="https://reactjs.org"
